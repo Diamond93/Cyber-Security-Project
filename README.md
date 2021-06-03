@@ -6,7 +6,7 @@ The files in this repository were used to configure the network depicted below.
 
 <img width="866" alt="Screen Shot 2021-06-02 at 9 21 17 PM" src="https://user-images.githubusercontent.com/42157262/120571716-b3204e80-c3e8-11eb-8a08-34c336c27b3f.png">
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the [Ansible] file may be used to install only certain pieces of it, such as Filebeat.
 
   - _TODO: Enter the playbook file._
 
